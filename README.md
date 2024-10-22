@@ -1,13 +1,13 @@
-# Projeto Django - Aperfeiçoando Python com o Framework Django
+# Django Project - Improving Python with the Django Framework
 
-Aqui, durante meus intervalos de estudo na faculdade, tenho dedicado tempo para aprimorar minhas habilidades em Python, juntamente com o framework Django. Nesta postagem, gostaria de compartilhar os arquivos públicos deste projeto em andamento.
+Here, during my college break, I've been spending some time improving my Python skills along with the Django Framework. In this post, I'd like to share the public files of this ongoing project.
 
-## Objetivo e Evolução
+## Goal and Progress
 
-O objetivo deste projeto é desenvolver uma aplicação prática e funcional que demonstre minha evolução e domínio da linguagem Python e do framework Django. Embora tenha trabalhado nele de forma privada até agora, decidi torná-lo público para compartilhar meus progressos.
+The goal of this project is to develop a practical, working application that demonstrates my evolution and mastery of the Python language and the Django Framework. Although I've been working on it privately up until now, I've decided to make it public to share my progress.
 
-No momento, estou finalizando o projeto real, que é uma versão mais específica e aplicada deste projeto "genérico". Conforme minha disponibilidade, continuarei atualizando-o com base nos avanços e funcionalidades adicionais do projeto real.
+I'm currently finalizing the actual project, which is a more specific and applied version of this "generic" project. As time allows, I'll continue to update it based on the progress and additional features of the actual project.
 
-## Conteúdo Futuro
+## Future Content
 
-Em breve, fornecerei um tutorial detalhado sobre como instalar e utilizar este projeto. Além disso, será descrito a utilidade específica que ele oferece.
+I'll soon provide a detailed tutorial on how to install and use this project. I'll also describe the specific utility it provides.
